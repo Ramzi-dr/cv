@@ -13,9 +13,15 @@ hr {
 p {
   font-size: 35px;
 }
-h1{
+
+h1 {
   color: #284E78;
 }
-h2{
-  color:#515E63;
+
+h2 {
+  color: #515E63;
+}
+footer {
+  text-align: center;
+
 }
