@@ -127,6 +127,14 @@ opacity: 0.75;
 .footer-link {
   padding: 20px
 }
+.footer-link:hover{
+  color: black;
+}
+
+.up {
+  position: relative;
+  margin: 40px auto 40px auto;
+}
 .BUTTON_RVI {
    background: #1B8D22;
    background-image: -webkit-linear-gradient(top, #1B8D22, #1E62D0);
@@ -154,6 +162,7 @@ opacity: 0.75;
    display: inline-block;
    cursor: pointer;
    text-align: center;
+   margin-top: 30px
 }
 
 .BUTTON_RVI:hover {
