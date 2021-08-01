@@ -1,27 +1,123 @@
 body {
-  background-color: #D4F3EF;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
 }
 
-hr {
-  border-style: dotted none none;
-  border-color: grey;
-  border-width: 10px;
-  background-color: #D4F3EF;
-  width: 20%;
+#boy {
+  color: #DF711B;
+  font-weight: normal;
 }
 
-p {
-  font-size: 35px;
+.mountain {
+  margin-bottom: 0
+}
+
+.top-cloud {
+  position: absolute;
+  right: 100px;
+  top: 50px
+}
+
+.bottom-cloud {
+  position: fixed;
+  left: 100px;
+  top:300px;
+}
+.mountain1{
+  position: fixed;
+  right:120px;
+  
+  scroll-behavior:auto;
 }
 
 h1 {
-  color: #284E78;
+  font-size: 5.625rem;
+  /*90px*/
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
 }
 
 h2 {
-  color: #515E63;
+  font-size: 2.5rem;
+  /*40px*/
+  font-family: 'Montserrat', sans-serif;
+  color: #003638;
 }
-footer {
-  text-align: center;
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.my-pic {}
+
+.language {
+  font-size: 1.5rem;
+}
+
+.top-container {
+  background-color: #F1ECC3;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #C9D8B6;
+  position: relative;
+  padding-bottom: 20px;
+}
+
+.language-container {
+  background-color: #5D8233;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+#Sprachen {
+  color: black;
+}
+
+.hobby-container {
+  position: relative;
+}
+
+.video {
+
+  min-width: 100%;
+  min-height: 50%;
+  width: auto;
+  height: auto;
+  opacity: 0.75;
+}
+.hobby {
+  background-color:;
+  position: absolute;
+  top:0;
+  width: 100%;
+
+opacity: 0.75;
 
 }
+#hobby {
+
+  text-align: center;
+  margin-top: 120px;
+  font-family:'Montserrat', sans-serif;
+  color: black;
+}
+
+
+.bottom-container {
+  background-color: #57837B;
+  position: absolute;
+  bottom:0;
+  width: 100%;
+
+opacity: 0.75;
+}
+
+
+
