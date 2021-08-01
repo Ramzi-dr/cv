@@ -61,12 +61,14 @@ h3 {
   background-color: #F1ECC3;
   position: relative;
   padding-top: 100px;
+  width:100%;
 }
 
 .middle-container {
   background-color: #C9D8B6;
   position: relative;
   padding-bottom: 20px;
+  width:100%;
 }
 
 .language-container {
@@ -74,6 +76,7 @@ h3 {
   position: relative;
   padding-top: 50px;
   padding-bottom: 20px;
+  width:100%;
 }
 
 #Sprachen {
@@ -83,6 +86,7 @@ h3 {
 .hobby-container {
   position: relative;
   background-color: #57837B;
+  width:100%;
 }
 
 .video {
