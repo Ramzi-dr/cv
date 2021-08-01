@@ -82,11 +82,12 @@ h3 {
 
 .hobby-container {
   position: relative;
+  background-color: #57837B;
 }
 
 .video {
 
-  min-width: 100%;
+  min-width: 95%;
   min-height: 50%;
   width: auto;
   height: auto;
