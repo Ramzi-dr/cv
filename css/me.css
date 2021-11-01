@@ -5,7 +5,7 @@ body {
   padding: 0;
   font-family: 'Poppins', sans-serif;
   text-align: center;
-  background-image: url('/Users/ramzi/Desktop/cv-main/images/portfolios/fix.jpeg');
+  background-image: url('images/portfolios/fix.jpeg');
 }
 
 section {
@@ -36,28 +36,28 @@ section .screen:hover {
 }
 
 section .screen:nth-child(1) {
-  background: url("/Users/ramzi/Desktop/cv-main/images/work/Daf.jpg");
+  background: url("images/work/Daf.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 section .screen:nth-child(2) {
-  background: url('/Users/ramzi/Desktop/cv-main/images/work/Texecom.jpg');
+  background: url('images/work/Texecom.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 section .screen:nth-child(3) {
-  background: url("/Users/ramzi/Desktop/cv-main/images/work/Milestone.jpeg");
+  background: url("images/work/Milestone.jpeg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 section .screen:nth-child(4) {
-  background: url('/Users/ramzi/Desktop/cv-main/images/work/axxon next.jpg');
+  background: url('images/work/axxon next.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -90,84 +90,84 @@ section .screen .content h2 {
 }
 
 .section .screen:nth-child(1) {
-  background: url("/Users/ramzi/Desktop/cv-main/images/work/Brand.jpeg");
+  background: url("images/work/Brand.jpeg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section .screen:nth-child(2) {
-  background: url('/Users/ramzi/Desktop/cv-main/images/work/Inim.jpg');
+  background: url('images/work/Inim.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section .screen:nth-child(3) {
-  background: url("/Users/ramzi/Desktop/cv-main/images/work/Aritech.jpg");
+  background: url("images/work/Aritech.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section .screen:nth-child(1) {
-  background: url("/Users/ramzi/Desktop/cv-main/images/work/Brand.jpeg");
+  background: url("images/work/Brand.jpeg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section .screen:nth-child(2) {
-  background: url('/Users/ramzi/Desktop/cv-main/images/work/Inim.jpg');
+  background: url('images/work/Inim.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section .screen:nth-child(3) {
-  background: url("/Users/ramzi/Desktop/cv-main/images/work/Aritech.jpg");
+  background: url("images/work/Aritech.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section2 .screen:nth-child(1) {
-  background: url("/Users/ramzi/Desktop/cv-main/images/work/Vanderbilt.jpeg");
+  background: url("images/work/Vanderbilt.jpeg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section2 .screen:nth-child(2) {
-  background: url('/Users/ramzi/Desktop/cv-main/images/work/Vanderbilt2.jpeg');
+  background: url('images/work/Vanderbilt2.jpeg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section2 .screen:nth-child(3) {
-  background: url("/Users/ramzi/Desktop/cv-main/images/work/privaat.jpg");
+  background: url("images/work/privaat.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section3 .screen:nth-child(1) {
-  background: url("/Users/ramzi/Desktop/cv-main/images/work/Berlin.jpg");
+  background: url("images/work/Berlin.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section3 .screen:nth-child(2) {
-  background: url('/Users/ramzi/Desktop/cv-main/images/work/axxon.jpg');
+  background: url('images/work/axxon.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section3 .screen:nth-child(3) {
-  background: url("/Users/ramzi/Desktop/cv-main/images/work/politie.jpg");
+  background: url("images/work/politie.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -181,28 +181,28 @@ section .screen .content h2 {
 }
 
 .section4 .screen:nth-child(2) {
-  background: url('/Users/ramzi/Desktop/cv-main/images/work/Flir2.jpg');
+  background: url('images/work/Flir2.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section4 .screen:nth-child(3) {
-  background: url("/Users/ramzi/Desktop/cv-main/images/work/FLIR.jpg");
+  background: url("images/work/FLIR.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section5 .screen:nth-child(1) {
-  background: url("/Users/ramzi/Desktop/cv-main/images/work/Konstanz.jpeg");
+  background: url("images/work/Konstanz.jpeg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .section5 .screen:nth-child(2) {
-  background: url('/Users/ramzi/Desktop/cv-main/images/work/kaufland.jpg');
+  background: url('images/work/kaufland.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
