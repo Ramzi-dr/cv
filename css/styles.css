@@ -10,7 +10,8 @@ body {
 }
 
 .mountain {
-  margin-bottom: 0
+  margin-bottom: 0;
+  width: 30rem;
 }
 
 .top-cloud {
@@ -194,6 +195,7 @@ opacity: 0.75;
 .styled-table {
     border-collapse: collapse;
      padding-top: 10px;
+
     font-size: 0.9em;
     font-family: sans-serif;
     margin: 0 auto;
@@ -212,4 +214,12 @@ opacity: 0.75;
 .styled-table td {
     padding: 12px 15px;
     margin: 0 auto;
+}
+.btn_folio {
+  margin: 2em auto;
+  background-color:#E2C275;
+}
+.btn-primary:hover {
+  background-color:#C68B59;
+  width: 50%;
 }
